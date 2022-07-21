@@ -15,13 +15,10 @@ Manual.yml
 bikeshare.py 
 
 ### CSV Files
-[1] Chicago.csv 
-[2] Newyork_City.csv 
-[3] Washington.csv
+Manual.yml
 
 ### Credits 
--@SudKul (Udacity mentor)
-(https://github.com/udacity/pdsnd_github/commits?author=SudKul)
+-Ali
 
-Special Thanks to the Udacity Team.
+Special Thanks to the APteck
 
